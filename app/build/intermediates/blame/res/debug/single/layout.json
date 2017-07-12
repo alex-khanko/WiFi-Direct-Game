@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/chelsenok/Education/wifi-direct-game/app/build/intermediates/res/merged/debug/layout/activity_choice.xml",
+        "source": "/home/chelsenok/Education/wifi-direct-game/app/src/main/res/layout/activity_choice.xml"
+    },
+    {
+        "merged": "/home/chelsenok/Education/wifi-direct-game/app/build/intermediates/res/merged/debug/layout/activity_join_group.xml",
+        "source": "/home/chelsenok/Education/wifi-direct-game/app/src/main/res/layout/activity_join_group.xml"
+    },
+    {
+        "merged": "/home/chelsenok/Education/wifi-direct-game/app/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/home/chelsenok/Education/wifi-direct-game/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/home/chelsenok/Education/wifi-direct-game/app/build/intermediates/res/merged/debug/layout/fragment_toolbar.xml",
+        "source": "/home/chelsenok/Education/wifi-direct-game/app/src/main/res/layout/fragment_toolbar.xml"
+    },
+    {
+        "merged": "/home/chelsenok/Education/wifi-direct-game/app/build/intermediates/res/merged/debug/layout/activity_create_group.xml",
+        "source": "/home/chelsenok/Education/wifi-direct-game/app/src/main/res/layout/activity_create_group.xml"
+    },
+    {
+        "merged": "/home/chelsenok/Education/wifi-direct-game/app/build/intermediates/res/merged/debug/layout/item_wifi_group.xml",
+        "source": "/home/chelsenok/Education/wifi-direct-game/app/src/main/res/layout/item_wifi_group.xml"
+    }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wi-Fi Discovery</string>
+    <string name="create">CREATE</string>
+    <string name="type_login_here">login</string>
+    <string name="mafia">Mafia</string>
+    <string name="citizens">Citizen</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="form_group">FORM GROUP</string>
+    <string name="share_device">SHARE DEVICE</string>
+    <string name="leave_this_group">leave this group</string>
+    <string name="finish_forming">finish forming</string>
+    <string name="group_members">Group members:</string>
+    <string name="peers_available">Peers available:</string>
+    <string name="create_group">create group</string>
+    <string name="join_to_group">join to group</string>
+    <string name="available_groups">Available groups:</string>
+    <string name="cancel">cancel</string>
+
+</resources>

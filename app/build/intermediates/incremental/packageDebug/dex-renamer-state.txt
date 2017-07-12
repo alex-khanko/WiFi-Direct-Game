@@ -1,0 +1,7 @@
+#Mon May 29 14:31:57 MSK 2017
+base.0=/home/chelsenok/Education/wifi-direct-game/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5de68d68b4d7666b7ab1c700910c7ad1d9687aad
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/chelsenok/Education/wifi-direct-game/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9472b4862e637bb8462ce6c357f933f667e0f36d/classes.dex
+base.1=/home/chelsenok/Education/wifi-direct-game/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9472b4862e637bb8462ce6c357f933f667e0f36d
+file.0=/home/chelsenok/Education/wifi-direct-game/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5de68d68b4d7666b7ab1c700910c7ad1d9687aad/classes.dex

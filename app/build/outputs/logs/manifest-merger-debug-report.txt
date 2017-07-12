@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:3:11-39
+		INJECTED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/chelsenok/.android/build-cache/cece9e6d9b0b813306d88ae079b99b272fc97534/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/chelsenok/.android/build-cache/208e9c25c8b1d82b1ca4399e076589290317daaa/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/chelsenok/.android/build-cache/e35013fce74c41e921d1037408bf2ce2b2cce560/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-core-ui:25.3.1] /home/chelsenok/.android/build-cache/208e9c25c8b1d82b1ca4399e076589290317daaa/output/AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		INJECTED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:7:15-41
+		INJECTED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:15:22-78
+uses-feature#android.hardware.wifi.direct
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:18:5-20:34
+	android:required
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:20:9-32
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:19:9-52
+application
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:22:5-40:19
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/chelsenok/.android/build-cache/208e9c25c8b1d82b1ca4399e076589290317daaa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/chelsenok/.android/build-cache/e35013fce74c41e921d1037408bf2ce2b2cce560/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:25:9-45
+	android:theme
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.chelsenok.game.activities.ChoiceActivity
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:26:19-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.chelsenok.game.activities.group.GroupActivity
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:32:9-33:79
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:33:13-77
+activity#com.chelsenok.game.activities.group.CreateGroupActivity
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:34:9-35:85
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:35:13-83
+activity#com.chelsenok.game.activities.group.JoinGroupActivity
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:36:9-37:83
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:37:13-81
+activity#com.chelsenok.game.activities.ChatActivity
+ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:38:9-39:72
+	android:name
+		ADDED from /home/chelsenok/Education/wifi-direct-game/app/src/main/AndroidManifest.xml:39:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:25.3.1] /home/chelsenok/.android/build-cache/cece9e6d9b0b813306d88ae079b99b272fc97534/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/chelsenok/.android/build-cache/208e9c25c8b1d82b1ca4399e076589290317daaa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/chelsenok/.android/build-cache/e35013fce74c41e921d1037408bf2ce2b2cce560/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:25.3.1] /home/chelsenok/.android/build-cache/cece9e6d9b0b813306d88ae079b99b272fc97534/output/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:25.3.1] /home/chelsenok/.android/build-cache/cece9e6d9b0b813306d88ae079b99b272fc97534/output/AndroidManifest.xml:23:9-47

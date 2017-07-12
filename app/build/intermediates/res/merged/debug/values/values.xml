@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr name="android:descendantFocusability"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
+    <string name="app_name">Wi-Fi Discovery</string>
+    <string name="available_groups">Available groups:</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="cancel">cancel</string>
+    <string name="citizens">Citizen</string>
+    <string name="create">CREATE</string>
+    <string name="create_group">create group</string>
+    <string name="finish_forming">finish forming</string>
+    <string name="form_group">FORM GROUP</string>
+    <string name="group_members">Group members:</string>
+    <string name="join_to_group">join to group</string>
+    <string name="leave_this_group">leave this group</string>
+    <string name="mafia">Mafia</string>
+    <string name="peers_available">Peers available:</string>
+    <string name="share_device">SHARE DEVICE</string>
+    <string name="type_login_here">login</string>
+    <style name="AppTheme" parent="android:Theme.DeviceDefault.NoActionBar">
+
+    </style>
+    <style name="boldText">
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:textColor">#99CC00</item>
+    </style>
+    <style name="normalText">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#33B5E5</item>
+    </style>
+</resources>
